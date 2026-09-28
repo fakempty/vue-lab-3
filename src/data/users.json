@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "John", "last": "Doe" },
+    "location": { "city": "Kyiv", "country": "Ukraine" },
+    "email": "john.doe@example.com",
+    "phone": "+380501112233",
+    "picture": "/users/user1.jpg",
+    "dob": { "date": "2009-05-15", "age": 16 },
+    "hobbies": ["Gaming", "Cycling"],
+    "details": "Школяр, захоплюється кіберспортом."
+  },
+  {
+    "id": 2,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Anna", "last": "Smith" },
+    "location": { "city": "Lviv", "country": "Ukraine" },
+    "email": "anna.smith@example.com",
+    "phone": "+380671112244",
+    "picture": "/users/user2.jpg",
+    "dob": { "date": "2002-09-20", "age": 23 },
+    "hobbies": ["Photography", "Travel"],
+    "details": "Junior Frontend розробниця."
+  },
+  {
+    "id": 3,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Oleh", "last": "Kovalenko" },
+    "location": { "city": "Dnipro", "country": "Ukraine" },
+    "email": "oleh.k@example.com",
+    "phone": "+380631112255",
+    "picture": "/users/user3.jpg",
+    "dob": { "date": "1988-02-11", "age": 37 },
+    "hobbies": ["Gym", "Running"],
+    "details": "Project Manager в IT-компанії."
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": { "title": "Mrs", "first": "Olena", "last": "Petrenko" },
+    "location": { "city": "Odesa", "country": "Ukraine" },
+    "email": "olena.p@example.com",
+    "phone": "+380991112266",
+    "picture": "/users/user4.jpg",
+    "dob": { "date": "1971-11-03", "age": 54 },
+    "hobbies": ["Gardening", "Cooking"],
+    "details": "Викладач університету."
+  },
+  {
+    "id": 5,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Taras", "last": "Shevchenko" },
+    "location": { "city": "Kharkiv", "country": "Ukraine" },
+    "email": "taras.sh@example.com",
+    "phone": "+380502223344",
+    "picture": "/users/user5.jpg",
+    "dob": { "date": "2010-01-10", "age": 15 },
+    "hobbies": ["Drawing", "Music"],
+    "details": "Цікавиться дизайном та 3D-моделюванням."
+  },
+  {
+    "id": 6,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Marta", "last": "Bondar" },
+    "location": { "city": "Ternopil", "country": "Ukraine" },
+    "email": "marta.b@example.com",
+    "phone": "+380672223355",
+    "picture": "/users/user6.jpg",
+    "dob": { "date": "1998-04-18", "age": 27 },
+    "hobbies": ["Yoga", "Baking"],
+    "details": "UI/UX Дизайнер."
+  },
+  {
+    "id": 7,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Bohdan", "last": "Moroz" },
+    "location": { "city": "Vinnytsia", "country": "Ukraine" },
+    "email": "bohdan.m@example.com",
+    "phone": "+380632223366",
+    "picture": "/users/user7.jpg",
+    "dob": { "date": "1983-08-30", "age": 42 },
+    "hobbies": ["Fishing", "DIY"],
+    "details": "Senior DevOps інженер."
+  },
+  {
+    "id": 8,
+    "gender": "female",
+    "name": { "title": "Mrs", "first": "Iryna", "last": "Melnyk" },
+    "location": { "city": "Poltava", "country": "Ukraine" },
+    "email": "iryna.m@example.com",
+    "phone": "+380992223377",
+    "picture": "/users/user8.jpg",
+    "dob": { "date": "1966-06-25", "age": 59 },
+    "hobbies": ["Knitting", "Reading"],
+    "details": "Головний бухгалтер на пенсії."
+  },
+  {
+    "id": 9,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Dmytro", "last": "Kravchenko" },
+    "location": { "city": "Chernihiv", "country": "Ukraine" },
+    "email": "dmytro.k@example.com",
+    "phone": "+380503334455",
+    "picture": "/users/user9.jpg",
+    "dob": { "date": "2005-12-05", "age": 20 },
+    "hobbies": ["Football", "Coding"],
+    "details": "Студент факультету комп'ютерних наук."
+  },
+  {
+    "id": 10,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Kateryna", "last": "Boyko" },
+    "location": { "city": "Uzhhorod", "country": "Ukraine" },
+    "email": "kateryna.b@example.com",
+    "phone": "+380673334466",
+    "picture": "/users/user10.jpg",
+    "dob": { "date": "1995-03-14", "age": 30 },
+    "hobbies": ["Hiking", "Photography"],
+    "details": "QA Automation інженер."
+  }
+]
